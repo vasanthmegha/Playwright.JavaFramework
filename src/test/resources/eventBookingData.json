@@ -1,0 +1,26 @@
+[
+  {
+    "titlePrefix":"Tech QA Conference",
+    "description":"Annual technology conference for testers",
+    "city":"Tumkur",
+    "venue":"HGS center",
+    "dateTime":"2026-09-18T07:26",
+    "price":"1000",
+    "totalSeats":"100",
+    "fullName":"Kumar Shetty",
+    "email":"kumar.student@example.com",
+    "phone":"9986636637"
+  },
+  {
+    "titlePrefix":"Food festival",
+    "description":"Live food prepartion",
+    "city":"Haveri",
+    "venue":"MTS center",
+    "dateTime":"2026-09-18T07:26",
+    "price":"1500",
+    "totalSeats":"78",
+    "fullName":"Test Automation User",
+    "email":"automation.test@example.com",
+    "phone":"9986636637"
+  }
+]
